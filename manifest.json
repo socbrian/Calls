@@ -1,0 +1,12 @@
+{
+  "domain": "broadcastify_calls",
+  "name": "Broadcastify Calls",
+  "version": "1.0.0",
+  "codeowners": ["@your_github_username"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/your_github_username/broadcastify_ha_integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/your_github_username/broadcastify_ha_integration/issues",
+  "requirements": ["aiohttp"]
+}
